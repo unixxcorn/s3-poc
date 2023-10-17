@@ -1,0 +1,6 @@
+{
+    "host": "0.0.0.0",
+    "port": 3000,
+    "aws_region": "ap-southeast-1",
+    "aws_profile": "pkl-poc"
+}
